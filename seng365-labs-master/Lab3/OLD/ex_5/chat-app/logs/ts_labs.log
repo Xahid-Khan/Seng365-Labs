@@ -1,0 +1,32 @@
+2022-04-20 20:32:35:3235 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:34:21:3421 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:34:46:3446 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:39:24:3924 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:39:39:3939 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:41:17:4117 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:46:48:4648 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:47:12:4712 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:47:40:4740 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-20 20:49:28:4928 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-04-20 20:49:28:4928 [32minfo[39m: [32mListening on port: 3000[39m
+2022-04-20 20:52:48:5248 [35mhttp[39m: [35mGET all users[39m
+2022-04-20 20:52:48:5248 [32minfo[39m: [32mGetting all users from the database[39m
+2022-04-20 20:53:13:5313 [35mhttp[39m: [35mGET all users[39m
+2022-04-20 20:53:13:5313 [32minfo[39m: [32mGetting all users from the database[39m
+2022-04-20 20:53:14:5314 [35mhttp[39m: [35mGET all users[39m
+2022-04-20 20:53:14:5314 [32minfo[39m: [32mGetting all users from the database[39m
+2022-04-20 20:56:42:5642 [35mhttp[39m: [35mGET all users[39m
+2022-04-20 20:56:42:5642 [32minfo[39m: [32mGetting all users from the database[39m
+2022-04-21 16:02:36:236 [31merror[39m: [31mUnable to connect to MySQL.[39m
+2022-04-21 16:03:10:310 [32minfo[39m: [32mSuccessfully connected to database[39m
+2022-04-21 16:03:10:310 [32minfo[39m: [32mListening on port: 3000[39m
+2022-04-21 16:03:41:341 [35mhttp[39m: [35mGET all users[39m
+2022-04-21 16:03:41:341 [32minfo[39m: [32mGetting all users from the database[39m
+2022-04-21 16:20:55:2055 [35mhttp[39m: [35mGET single user id: 3[39m
+2022-04-21 16:20:55:2055 [32minfo[39m: [32mGetting user 3 from the database[39m
+2022-04-21 16:20:57:2057 [35mhttp[39m: [35mGET all users[39m
+2022-04-21 16:20:57:2057 [32minfo[39m: [32mGetting all users from the database[39m
+2022-04-21 16:20:58:2058 [35mhttp[39m: [35mGET single user id: 3[39m
+2022-04-21 16:20:58:2058 [32minfo[39m: [32mGetting user 3 from the database[39m
+2022-04-21 16:21:00:210 [35mhttp[39m: [35mGET all users[39m
+2022-04-21 16:21:00:210 [32minfo[39m: [32mGetting all users from the database[39m
